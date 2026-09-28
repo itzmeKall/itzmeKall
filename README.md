@@ -61,23 +61,23 @@ I am a dedicated software engineering enthusiast with a strong focus on building
 <table border="0">
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=purptip&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=itzmeKall&show_icons=true&theme=purptip&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=purptip&hide_border=true" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=purptip&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=purptip&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeKall&theme=purptip&hide_border=true" alt="GitHub Streak" />
 
 ---
 
 ### 🐍 Contribution Graph
 
-<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+<img src="https://raw.githubusercontent.com/itzmeKall/itzmeKall/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 
 ---
 
