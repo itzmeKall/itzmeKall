@@ -58,20 +58,16 @@ I am a dedicated software engineering enthusiast with a strong focus on building
 
 ### 📊 GitHub Statistics
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=itzmeKall&show_icons=true&theme=purptip&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=purptip&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=purple_dark&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=purple_dark&hide_border=true" alt="itzmeKall Top Languages" />
+</p>
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzmeKall&theme=purptip&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=itzmeKall&theme=purple_dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
