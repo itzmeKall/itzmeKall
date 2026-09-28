@@ -60,19 +60,19 @@ I am a dedicated software engineering enthusiast with a strong focus on building
 
 <p align="center">
   <!-- 1. GitHub Stats -->
-  <img src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
+  <img width="495" src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
   
   <br />
   <br />
 
-  <!-- 2. Top Languages (Berada di tengah-tengah) -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=tokyonight&hide_border=true" alt="itzmeKall Top Languages" />
+  <!-- 2. Most Used Languages (Di Tengah) -->
+  <img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=tokyonight&hide_border=true" alt="itzmeKall Top Languages" />
   
   <br />
   <br />
 
   <!-- 3. Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=itzmeKall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="495" src="https://streak-stats.demolab.com/?user=itzmeKall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
