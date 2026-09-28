@@ -19,44 +19,50 @@
 
 <div align="center">
 
-### 🚀 About Me
+### About Me
 
-<p align="center" width="80%">
-I am a dedicated software engineering enthusiast with a strong focus on building scalable applications, data analysis, and modern web solutions. Passionate about writing clean, maintainable code and solving complex technical challenges.
+<br />
+
+<p align="left" style="display: inline-block; text-align: left; max-width: 650px;">
+Hi, I'm <b>Muhammad Husain Haekal</b>. A passionate developer and UI/UX designer dedicated to crafting clean, responsive web solutions and intuitive digital user experiences.
+<br /><br />
+<b>Skills & Tech Stack:</b> HTML5, CSS3, JavaScript, Figma, Git, GitHub, VS Code.<br />
+<b>Currently working on:</b> Interactive web applications and modern UI/UX design prototypes.<br />
+<b>Currently learning:</b> Advanced Frontend Architecture & Modern UI Interaction Design.<br />
+<b>Fun fact:</b> I enjoy transforming abstract ideas into pixel-perfect interfaces while listening to deep focus lo-fi beats.
+<br /><br />
+<div style="margin-top: 10px;">
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://tiktok.com/@YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
 </p>
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>Languages & Frameworks</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <br />
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>Tools & Databases</h4>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        <br />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br />
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Development** | <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a> |
+| **UI/UX Design** | <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a> |
+| **Developer Tools** | <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a> <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a> |
+
+<br />
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 
 <p align="center">
   <!-- 1. GitHub Stats -->
@@ -65,7 +71,7 @@ I am a dedicated software engineering enthusiast with a strong focus on building
   <br />
   <br />
 
-  <!-- 2. Most Used Languages (Di Tengah) -->
+  <!-- 2. Most Used Languages -->
   <img width="495" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=tokyonight&hide_border=true" alt="itzmeKall Top Languages" />
   
   <br />
@@ -77,21 +83,9 @@ I am a dedicated software engineering enthusiast with a strong focus on building
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <img src="https://raw.githubusercontent.com/itzmeKall/itzmeKall/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-
----
-
-### 📫 Connect with Me
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 <br />
 <br />
