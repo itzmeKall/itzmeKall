@@ -64,6 +64,8 @@ Hi, I'm <b>Muhammad Husain Haekal</b>. A passionate developer and UI/UX designer
 
 ### GitHub Statistics
 
+<br />
+
 <p align="center">
   <!-- 1. GitHub Stats -->
   <img width="495" src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
