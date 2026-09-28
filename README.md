@@ -58,20 +58,20 @@ I am a dedicated software engineering enthusiast with a strong focus on building
 
 ### 📊 GitHub Statistics
 
-<table border="0" align="center">
-  <tr align="center">
-    <td align="center" valign="middle">
-      <img height="165" src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=tokyonight&hide_border=true" alt="itzmeKall Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <p align="center">
+  <!-- 1. GitHub Stats -->
+  <img src="https://github-stats-extended.vercel.app/api?username=itzmeKall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="itzmeKall GitHub Stats" />
+  
+  <br />
+  <br />
+
+  <!-- 2. Top Languages (Berada di tengah-tengah) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=itzmeKall&layout=compact&theme=tokyonight&hide_border=true" alt="itzmeKall Top Languages" />
+  
+  <br />
+  <br />
+
+  <!-- 3. Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=itzmeKall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
